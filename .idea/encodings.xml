@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/artisan/o2o/entity/Area.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/artisan/o2o/service/ShopService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/artisan/o2o/service/impl/ShopServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/artisan/o2o/util/FileUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/artisan/o2o/util/ImageUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/o2o/com/artisan/o2o/dao/ShopDaoTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/o2o/com/artisan/o2o/service/ShopServiceTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
